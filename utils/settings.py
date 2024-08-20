@@ -10,7 +10,7 @@ class Settings:
         # Frame rate
         self.fps = 60
 
-        # Resource limits (example values, can be adjusted)
+        # Resource settings
         self.starting_metal = 100
         self.starting_energy_crystals = 50
         self.starting_bio_mass = 30
