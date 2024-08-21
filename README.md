@@ -5,10 +5,9 @@
 #### **1. Game Overview**
 
 **Title:** Outpost  
-**Genre:** 2D Base-Building, Real-Time Strategy, Roguelike  
-**Platform:** PC (initially), with potential for expansion to other platforms  
-**Inspiration:** Inspired by *Rymdkapsel* and other strategic base-building games.  
-**Objective:** Players manage a robotic crew to expand their outpost on a hostile planet, defend against waves of increasingly difficult enemies, and survive as long as possible.
+**Genre:** 2D Base-Building, Real-Time Strategy, Rogue-like  
+**Platform:** PC (initially), with potential for expansion to mobile  
+**Objective:** Players manage a robotic crew to expand their outpost on a hostile planet, defend against waves of increasingly difficult enemies.
 
 ---
 
@@ -28,7 +27,7 @@ The player starts with a small headquarters and must expand the base by building
 - **Resource Management:** Players gather and manage various resources, such as minerals and energy, which are required to build and upgrade structures.
 
 **Wave-Based Enemy System:**
-- **Thematic Waves:** The game is divided into stages, with each stage consisting of five waves. Each stage features a specific theme for its enemies (e.g., bugs, alien beasts, hostile tribes). Enemies become progressively stronger with each wave, culminating in a boss wave.
+- **Thematic Waves:** The game is divided into stages, with each stage consisting of five waves. Each stage features a specific theme for its enemies (e.g., bugs, alien beasts, robots). Enemies become progressively stronger with each wave, culminating in a boss wave.
 - **Dynamic Difficulty:** Enemies adapt to the player’s strategy, targeting weak points and employing different tactics, forcing the player to continuously adjust their approach.
 - **Environmental Hazards:** As the base expands, the environment may react with hazards such as toxic storms, earthquakes, or enemy ambushes, adding an additional layer of challenge.
 
@@ -103,43 +102,3 @@ The narrative unfolds through the different stages of enemy waves. As the player
 **Documentation:**
 - Maintain updated GDD and TDD throughout development.
 - Keep README files and other documentation up-to-date.
-
----
-
-#### **7. Version Control and Collaboration**
-
-**Version Control:**
-- Use Git for version control with a repository hosted on GitHub.
-- Establish a branching strategy (e.g., `main` for stable releases, `dev` for ongoing development, feature branches for specific tasks).
-
-**Collaboration:**
-- If collaborating with others, use pull requests for code reviews and merges.
-- Regularly sync and back up the project to ensure data integrity.
-
----
-
-#### **8. Testing and Feedback**
-
-**Playtesting:**
-- Conduct regular playtesting sessions to gather feedback on gameplay and difficulty.
-- Use feedback to iterate on and improve game mechanics.
-
-**Quality Assurance:**
-- Test for bugs, performance issues, and edge cases.
-- Balance gameplay to ensure a challenging but fair experience.
-
----
-
-#### **9. Post-Launch Support**
-
-**Updates and Patches:**
-- Plan for regular updates to fix bugs, improve features, and add new content.
-- Engage with the player community to gather feedback and prioritize updates.
-
-**Community Engagement:**
-- Build and maintain a community around the game, providing support and updates.
-- Consider expanding the game based on community feedback and demand.
-
----
-
-This structured plan should guide you through the development of *Outpost*, ensuring that each stage is well-organized and that you have a clear roadmap from concept to completion.
